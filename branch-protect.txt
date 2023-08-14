@@ -1,3 +1,4 @@
 branch protection
 second line
 branch-protected
+line4
